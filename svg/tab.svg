@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.22485 128.00195">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #998675;
+      }
+
+      .cls-2 {
+        fill: #006837;
+      }
+    </style>
+  </defs>
+  <title>tab</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="tab">
+      <g id="Gr-pour-beer">
+        <g id="red-pour-beer">
+          <path class="cls-1" d="M59.44437,60.66585V0a60.66585,60.66585,0,0,1,60.66585,60.66585,57.6717,57.6717,0,0,1-2.9692,18.74678Z"/>
+        </g>
+      </g>
+      <g id="Gr-release-tab">
+        <g id="yellow-release-tab">
+          <path class="cls-2" d="M64.5282,67.3361l57.69665,18.74678c-8.28285,25.492-30.89279,41.91907-57.69665,41.91907Z"/>
+        </g>
+      </g>
+      <g id="Gr-recive-payment">
+        <g id="brown-recive-payment">
+          <path class="cls-1" d="M60.66585,60.2829v60.66585A60.66585,60.66585,0,0,1,0,60.2829H60.66585Z"/>
+        </g>
+      </g>
+      <g id="Gr-end-serving">
+        <g id="blue-end-serving">
+          <path class="cls-1" d="M60.66585,60.66585H0A60.66585,60.66585,0,0,1,60.66585,0h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

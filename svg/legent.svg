@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74.59315 88.00934">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #29abe2;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 9px;
+        font-family: FjallaOne-Regular, Fjalla One;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #e8c547;
+      }
+
+      .cls-5 {
+        fill: #006837;
+      }
+
+      .cls-6 {
+        fill: #92140c;
+      }
+    </style>
+  </defs>
+  <title>legent</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="pie-colors">
+      <g id="Gr-end-serving">
+        <g id="end-serving">
+          <rect class="cls-1" x="0.83369" y="74.14286" width="17.3331" height="13.86648"/>
+          <text class="cls-2" transform="translate(20.33302 83.51346)">End serving</text>
+        </g>
+      </g>
+      <g id="Gr-recive-payment">
+        <g id="recive-payment">
+          <rect class="cls-3" y="49.45949" width="17.3331" height="13.86648"/>
+          <text class="cls-4" transform="translate(19.49931 58.83015)">Recive Payment</text>
+        </g>
+      </g>
+      <g id="Gr-release-tab">
+        <g id="relase-tab">
+          <rect class="cls-5" x="0.00005" y="24.86979" width="17.3331" height="13.86648"/>
+          <text class="cls-2" transform="translate(19.49934 34.79921)">Release Tab</text>
+        </g>
+      </g>
+      <g id="Gr-pour-beer">
+        <g id="pour-beer">
+          <rect class="cls-6" x="1.08314" width="17.3331" height="13.86648"/>
+          <text class="cls-2" transform="translate(20.58244 9.37083)">Pour Beer</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

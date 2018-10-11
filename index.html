@@ -8,125 +8,129 @@
     <title>Document</title>
     <script src="https://kea-alt-del.dk/2018/front/foobar.js"></script>
     <link href="style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
 
 </head>
 
 <body>
+    <header>
+        <img id="headerImg" src="images/header.png">
+    </header>
     <main>
 
-        <div id="pie-chart">
+        <div id="bartenders">
 
-        </div>
-        <div class="bartenders">
+
             <div class="jonas bartender">
                 <h1 class="nameJ">Name:</h1>
-                <h2>Salary:</h2>
+                <img class="icon" src="" alt="">
                 <h2 class="state">State:</h2>
-                <h2 class="coustumer-serving"> Serving Coustumer:</h2>
-                <h2>Current Task:</h2>
-                <div class="img-pie-jonas"><img src="" alt=""></div>
+                <h2>Customer served:</h2>
+                <h2 class="serving"></h2>
             </div>
 
             <div class="peter bartender">
                 <h1 class="nameP">Name:</h1>
-                <h2>Salary:</h2>
+                <div class="img-pie-peter"><img class="icon" src="" alt=""></div>
                 <h2 class="state">State:</h2>
-                <h2>Serving Coustumer:</h2>
-                <h2>Current Task:</h2>
-                <div class="img-pie-peter"><img src="" alt=""></div>
+                <h2>Customer served:</h2>
+                <h2 class="serving"></h2>
             </div>
 
             <div class="martin bartender">
                 <h1 class="nameM">Name:</h1>
-                <h2>Salary:</h2>
+                <div class="img-pie-martin"><img class="icon" src="" alt=""></div>
                 <h2 class="state">State:</h2>
-                <h2>Serving Coustumer:</h2>
-                <h2>Current Task:</h2>
-                <div class="img-pie-martin"><img src="" alt=""></div>
+                <h2>Customer served</h2>
+                <h2 class="serving"></h2>
+            </div>
 
+            <div id="queue">
+
+                <div id="qv"></div>
+                <h2></h2>
             </div>
         </div>
 
-        <div id="queue">
-            <div id="qv"></div>
-            <h2></h2>
-        </div>
 
 
 
-        <div class="kegBeers">
-            <div class="kegGraphs">
-                <template class="beerTemp">
-                    <div class="oneKegGraph">
-                        <svg class="thingyTop"></svg>
-                        <div class="beerCont">
-                            <div class="beerLiquid"></div>
+        <div id="twoGraphs">
+
+            <div class="kegBeers">
+                <img id="scale" src="images/scale.png">
+                <div class="kegGraphs">
+                    <template class="beerTemp">
+                        <div class="oneKegGraph">
+                            <svg class="thingyTop"></svg>
+                            <div class="beerCont">
+                                <div class="beerLiquid"></div>
+                            </div>
+
+                            <h1 class="beerNameTap"></h1>
+                            <!-- <img class="beerImage" src="" alt=""> -->
                         </div>
-
-
-                        <h1 class="beerNameTap">Beer Name</h1>
-                    </div>
-                </template>
+                    </template>
+                </div>
             </div>
+
+
+
+            <aside>
+
+                <div class="glassesSoldDiv" id="elHefe">
+                    <img class="beerLogo" id="first" src="" alt="elhefe">
+                    <p id="p1">35</p>
+                    <div class="beersDiv" id="elHeveDiv"></div>
+
+                </div>
+
+
+                <div class="glassesSoldDiv" id="gitHop">
+                    <img class="beerLogo" id="second" src="" alt="githop">
+                    <p id="p2">35</p>
+                    <div class="beersDiv" id="gitHopDiv"></div>
+
+                </div>
+
+
+                <div class="glassesSoldDiv" id="mowinTime">
+                    <img class="beerLogo" id="third" src="" alt="mowinTime">
+                    <p id="p3">35</p>
+                    <div class="beersDiv" id="mowinTimeDiv"></div>
+                </div>
+
+                <div class="glassesSoldDiv" id="fairytaleAle">
+                    <img class="beerLogo" id="fourth" src="" alt="">
+                    <p id="p4">35</p>
+                    <div class="beersDiv" id="fairytaleAleDiv"></div>
+                </div>
+
+
+                <div class="glassesSoldDiv" id="row26">
+                    <img class="beerLogo" id="fifth" src="" alt="">
+                    <p id="p5">35</p>
+                    <div class="beersDiv" id="row26Div"></div>
+                </div>
+
+
+                <div class="glassesSoldDiv" id="happilyEverAfter">
+                    <img class="beerLogo" id="sixth" src="" alt="happilyEverAfter">
+                    <p id="p6">35</p>
+                    <div class="beersDiv" id="happilyEverAfterDiv"></div>
+                </div>
+
+
+                <div class="glassesSoldDiv" id="ruinedChildhood">
+                    <img class="beerLogo" id="seventh" src="" alt="">
+                    <p id="p7">35</p>
+                    <div class="beersDiv" id="ruinedChildhoodDiv"></div>
+                </div>
+
         </div>
 
+        </aside>
     </main>
-    <br>
-    <br>
-    <aside>
-
-        <div class="glassesSoldDiv" id="elHefe">
-            <img class="beerLogo" src="images/elhefe.png" alt="elhefe">
-            <p id="p1">35</p>
-            <div class="beersDiv" id="elHeveDiv"></div>
-
-        </div>
-
-
-        <div class="glassesSoldDiv" id="gitHop">
-            <img class="beerLogo" src="images/githop.png" alt="githop">
-            <p id="p2">35</p>
-            <div class="beersDiv" id="gitHopDiv"></div>
-
-        </div>
-
-
-        <div class="glassesSoldDiv" id="mowinTime">
-            <img class="beerLogo" src="images/mowintime.png" alt="mowinTime">
-            <p id="p3">35</p>
-            <div class="beersDiv" id="mowinTimeDiv"></div>
-        </div>
-
-        <div class="glassesSoldDiv" id="fairytaleAle">
-            <img class="beerLogo" src="images/fairytaleale.png" alt="">
-            <p id="p4">35</p>
-            <div class="beersDiv" id="fairytaleAleDiv"></div>
-        </div>
-
-
-        <div class="glassesSoldDiv" id="row26">
-            <img class="beerLogo" src="images/row26.png" alt="">
-            <p id="p5">35</p>
-            <div class="beersDiv" id="row26Div"></div>
-        </div>
-
-
-        <div class="glassesSoldDiv" id="happilyEverAfter">
-            <img class="beerLogo" src="images/hoppilyeverafter.png" alt="happilyEverAfter">
-            <p id="p6">35</p>
-            <div class="beersDiv" id="happilyEverAfterDiv"></div>
-        </div>
-
-
-        <div class="glassesSoldDiv" id="ruinedChildhood">
-            <img class="beerLogo" src="images/ruinedchildhood.png" alt="">
-            <p id="p7">35</p>
-            <div class="beersDiv" id="ruinedChildhoodDiv"></div>
-        </div>
-
-
-
-    </aside>
     <script src="script.js"></script>
 </body>
 

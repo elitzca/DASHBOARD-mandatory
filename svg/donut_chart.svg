@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.36993 224.58384">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #afbfc0;
+      }
+
+      .cls-2 {
+        fill: #e8c547;
+      }
+
+      .cls-3 {
+        fill: #725752;
+      }
+
+      .cls-4 {
+        fill: #993533;
+      }
+
+      .cls-5 {
+        font-size: 10px;
+        font-family: FjallaOne-Regular, Fjalla One;
+      }
+    </style>
+  </defs>
+  <title>donut_chart</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <rect class="cls-1" x="13.05488" y="151.43152" width="17.3331" height="13.86648"/>
+          <path class="cls-1" d="M60.66,0V27.22A33.44654,33.44654,0,0,0,27.22,60.67H0A60.66413,60.66413,0,0,1,60.66,0Z"/>
+        </g>
+        <g>
+          <rect class="cls-2" x="13.05488" y="172.23124" width="17.3331" height="13.86648"/>
+          <path class="cls-2" d="M60.66,94.11v30.34A60.66418,60.66418,0,0,1,0,63.78H27.36A33.44729,33.44729,0,0,0,60.66,94.11Z"/>
+        </g>
+        <g>
+          <rect class="cls-3" x="13.05488" y="191.4743" width="17.3331" height="13.86648"/>
+          <path class="cls-3" d="M121.4,82.53c-8.28,25.49-30.89,41.92-57.69,41.92V93.97A33.46886,33.46886,0,0,0,91.8,72.91Z"/>
+        </g>
+        <g>
+          <rect class="cls-4" x="13.05488" y="210.71736" width="17.3331" height="13.86648"/>
+          <path class="cls-4" d="M124.36993,60.67a57.6328,57.6328,0,0,1-2.96,18.74l-28.36-9.21A33.47138,33.47138,0,0,0,63.71,27.33V0A60.66413,60.66413,0,0,1,124.36993,60.67Z"/>
+        </g>
+      </g>
+      <g>
+        <text class="cls-5" transform="translate(38.21527 220.6204) scale(0.96907 1)">End serving</text>
+        <text class="cls-5" transform="translate(38.21527 200.76395) scale(0.96907 1)">Receive Payment</text>
+        <text class="cls-5" transform="translate(38.21479 180.90653) scale(0.96907 1)">Release Tab</text>
+        <text class="cls-5" transform="translate(38.21527 163.24247) scale(0.96907 1)">Pour Beer</text>
+      </g>
+    </g>
+  </g>
+</svg>

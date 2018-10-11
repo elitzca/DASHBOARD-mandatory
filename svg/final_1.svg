@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121.3317 224.58233">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #29abe2;
+      }
+
+      .cls-2 {
+        fill: #e8c547;
+      }
+
+      .cls-3 {
+        fill: #006837;
+      }
+
+      .cls-4 {
+        fill: #92140c;
+      }
+
+      .cls-5 {
+        font-size: 10px;
+        font-family: FjallaOne-Regular, Fjalla One;
+      }
+    </style>
+  </defs>
+  <title>final_1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <g>
+            <rect class="cls-1" x="13.05587" y="148.31669" width="17.3331" height="13.86648"/>
+            <path class="cls-1" d="M60.66585,60.66585H0A60.66585,60.66585,0,0,1,60.66585,0h0Z"/>
+          </g>
+          <g>
+            <rect class="cls-2" x="13.05587" y="169.11641" width="17.3331" height="13.86648"/>
+            <path class="cls-2" d="M60.66585,60.66585V121.3317A60.66585,60.66585,0,0,1,0,60.66585H60.66585Z"/>
+          </g>
+          <g>
+            <rect class="cls-3" x="13.05587" y="189.91613" width="17.3331" height="13.86648"/>
+            <path class="cls-3" d="M60.66585,60.66585l57.69665,18.74678c-8.28285,25.492-30.89279,41.91907-57.69665,41.91907Z"/>
+          </g>
+          <g>
+            <rect class="cls-4" x="13.05587" y="210.71585" width="17.3331" height="13.86648"/>
+            <path class="cls-4" d="M60.66585,60.66585V0A60.66585,60.66585,0,0,1,121.3317,60.66585a57.67171,57.67171,0,0,1-2.9692,18.74678Z"/>
+          </g>
+        </g>
+        <g>
+          <text class="cls-5" transform="translate(32.55518 159.68726)">End serving</text>
+          <text class="cls-5" transform="translate(32.55518 180.48707)">Recive Payment</text>
+          <text class="cls-5" transform="translate(32.55518 201.28687)">Release Tab</text>
+          <text class="cls-5" transform="translate(32.55518 222.08668)">Pour Beer</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
